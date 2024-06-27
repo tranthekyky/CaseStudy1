@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Quanlysanpham"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CaseStudy"
+	}
+}
